@@ -13,7 +13,9 @@ KlingCreator is a powerful tool that allows you to generate images and videos ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repository/klingCreator.git
+
+git clone https://github.com/your-repository/klingCreator.git](https://github.com/varadraj6055/Music-to-video.git)
+
 Install the required dependencies:
 
 bash
